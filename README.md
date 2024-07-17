@@ -1,1 +1,1 @@
-# poetry_generator
+# Natural Language Processing with sequence-to-sequence model
